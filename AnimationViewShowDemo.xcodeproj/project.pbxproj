@@ -12,6 +12,7 @@
 		92AA6FF91F2EDA2F0077F966 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92AA6FF71F2EDA2F0077F966 /* Main.storyboard */; };
 		92AA6FFB1F2EDA2F0077F966 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92AA6FFA1F2EDA2F0077F966 /* Assets.xcassets */; };
 		92AA6FFE1F2EDA2F0077F966 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92AA6FFC1F2EDA2F0077F966 /* LaunchScreen.storyboard */; };
+		92AA70061F2EDA6B0077F966 /* SecViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AA70051F2EDA6B0077F966 /* SecViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		92AA6FFA1F2EDA2F0077F966 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92AA6FFD1F2EDA2F0077F966 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92AA6FFF1F2EDA2F0077F966 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92AA70051F2EDA6B0077F966 /* SecViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				92AA6FF31F2EDA2F0077F966 /* AppDelegate.swift */,
 				92AA6FF51F2EDA2F0077F966 /* ViewController.swift */,
+				92AA70051F2EDA6B0077F966 /* SecViewController.swift */,
 				92AA6FF71F2EDA2F0077F966 /* Main.storyboard */,
 				92AA6FFA1F2EDA2F0077F966 /* Assets.xcassets */,
 				92AA6FFC1F2EDA2F0077F966 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				92AA6FF61F2EDA2F0077F966 /* ViewController.swift in Sources */,
 				92AA6FF41F2EDA2F0077F966 /* AppDelegate.swift in Sources */,
+				92AA70061F2EDA6B0077F966 /* SecViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
